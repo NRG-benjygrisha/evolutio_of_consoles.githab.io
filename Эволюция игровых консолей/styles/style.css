@@ -1,0 +1,28 @@
+.wow{    
+	display:block;
+	width:100px;
+    margin:0 auto;
+}
+
+.cite{
+ 	width:70%;
+    display:block;
+	margin:30px auto;
+}
+
+.backbutton{
+	position: absolute;
+    left:1%;
+    top:92%;
+	width:2.7%;
+}
+
+.container{
+	width:50%;
+	margin:0 auto;
+}
+
+.video{	
+    margin:0 auto;
+}
+

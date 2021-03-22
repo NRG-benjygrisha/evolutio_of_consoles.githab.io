@@ -1,0 +1,280 @@
+header {
+    background-color: #000000;
+	height: 900px;
+	width:100%;
+}
+.sony{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:30px
+}
+.microsoft{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:610px
+}
+
+.nintendo{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:1210px
+}
+.evolution{
+	color:white;
+	position: absolute;
+	font-size: 300%;
+    top:300px;
+	left:400px;
+}
+.site{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:500px;
+    top:500px;	
+}
+
+.new{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:575px;
+    top:520px;
+}
+.old{
+	color:white;
+	position: absolute;
+	font-size: 200%;
+	left:525px;
+    top:540px;	
+}
+article {
+    position:relative;
+    background-color: #FFA07A;
+	width: 100%;
+    height: 2100px;
+	float:left
+}
+.generation1{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:200px;		
+}
+.generation2{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:410px;	
+}
+.generation3{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:620px;	
+}
+.generation4{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:830px;	
+}
+.generation5{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:1040px;	
+}
+.generation6{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:1250px;	
+}
+.generation7{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:1460px;	
+}
+.generation8{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:1670px;	
+}
+.generation9{
+	color:black;
+	position: absolute;
+	font-size: 200%;
+	left:570px;
+    top:1880px;	
+}
+.one_png{
+    height:200px;
+	width:400px;
+    position:absolute;
+	left:100px;
+	top:100px;	
+}
+.two_png{
+    height:200px;
+	width:400px;
+    position:absolute;
+	right:100px;
+	top:300px;	
+}
+.three_png{
+    height:200px;
+	width:400px;
+    position:absolute;
+	left:100px;
+	top:550px;	
+}
+.four_png{
+    height:300px;
+	width:400px;
+    position:absolute;
+	right:100px;
+	top:750px;	
+}
+.five_png{
+    height:200px;
+	width:400px;
+    position:absolute;
+	left:100px;
+	top:950px;	
+}
+.six_png{
+	height:200px;
+	width:400px;
+    position:absolute;
+	right:100px;
+	top:1150px;	
+}
+.seven_png{
+	height:200px;
+	width:400px;
+    position:absolute;
+	left:100px;
+	top:1370px;	
+}
+.eight_png{
+	height:200px;
+	width:400px;
+    position:absolute;
+	right:100px;
+	top:1570px;	
+}
+.nine_png{
+	height:300px;
+	width:400px;
+    position:absolute;
+	left:150px;
+	top:1750px;	
+}
+footer {
+    background-color: #A0522D;
+    height:200px;
+	width:100%;
+	float:left
+}
+.thanks{
+	text-align: center;
+	color:white;
+	font-size: 170%;
+}
+.discord_png{
+	height:95px;
+	width:100px;
+    position:absolute;
+	left:20px;
+	top:3070px;	
+}
+.vk_png{
+	height:80px;
+	width:80px;
+    position:absolute;
+	left:970px;
+	top:3075px;	
+}
+.discord{
+	position:absolute;
+	left:120px;
+	top:3083px;
+	font-size: 150%;
+	color:white;
+}
+.vk{
+	position:absolute;
+	right:20px;
+	top:3083px;
+	font-size: 150%;
+	color:white;	
+}
+
+.groupe_png0 {
+    position:absolute;
+    left:645px;
+	top:30px;
+}
+
+.groupe_png1 {
+    position:absolute;
+    left:645px;
+	top:260px;
+}
+.groupe_png2 {
+    position:absolute;
+    left:645px;
+	top:460px;
+}
+.groupe_png3 {
+    position:absolute;
+    left:645px;
+	top:670px;
+}
+.groupe_png4 {
+    position:absolute;
+    left:645px;
+	top:880px;
+}
+.groupe_png5 {
+    position:absolute;
+    left:645px;
+	top:1090px;
+}
+.groupe_png6 {
+    position:absolute;
+    left:645px;
+	top:1300px;
+}
+.groupe_png7 {
+    position:absolute;
+    left:645px;
+	top:1510px;
+}
+.groupe_png8 {
+    position:absolute;
+    left:645px;
+	top:1720px;
+}
+.groupe_png9 {
+    position:absolute;
+    left:645px;
+	top:1930px;
+}
+
+
+
